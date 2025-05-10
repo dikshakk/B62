@@ -1,0 +1,2 @@
+New hugging api_token :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
+New google api key :AIzaSyD1oWCBa_XTzLqU2g0g-LtFYuYW896ZjGw
